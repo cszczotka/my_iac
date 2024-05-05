@@ -1,0 +1,11 @@
+src/azure/resource_groups/.terraform.lock.hcl
+src/azure/resource_groups/terraform.tfstate
+src/azure/resource_groups/terraform.tfstate.backup
+src/local/files/.terraform.lock.hcl
+src/local/files/terraform.tfstate
+src/local/files/terraform.tfstate.backup
+test/go.sum
+test/go.mod
+src/local/files/.terraform/providers/registry.terraform.io/hashicorp/local/2.5.1/windows_amd64/terraform-provider-local_v2.5.1_x5.exe
+src/local/resource_groups/.terraform/
+src/local/vm/.terraform/
